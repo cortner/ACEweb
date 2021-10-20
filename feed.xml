@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Franklin Template  ]]>
+    </title>
+    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <description>
+      <![CDATA[  Example website using Franklin  ]]>
+    </description>
+    <atom:link
+      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Community and Meetings  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/community/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/community/index.html </guid>
+  <description>
+    <![CDATA[  ACE meetings and other community resources  ]]>
+  </description>  
+    
+  <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Septimia Zenobia</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  ACE Introduction  ]]>
+  </title>
+  <link> https://tlienart.github.io/FranklinTemplates.jl/aceintro/index.html </link>
+  <guid> https://tlienart.github.io/FranklinTemplates.jl/aceintro/index.html </guid>
+  <description>
+    <![CDATA[  Brief intro to the ACE model  ]]>
+  </description>  
+    
+  <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Septimia Zenobia</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
