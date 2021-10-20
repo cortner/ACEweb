@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  Franklin Template  ]]>
+      <![CDATA[  ACE Web  ]]>
     </title>
-    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <link> https://cortner.github.io/ACEweb/ </link>
     <description>
-      <![CDATA[  Example website using Franklin  ]]>
+      <![CDATA[  Atomic Cluster Expansion  ]]>
     </description>
     <atom:link
-      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      href="https://cortner.github.io/ACEweb/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  Community and Meetings  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/community/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/community/index.html </guid>
+  <link> https://cortner.github.io/ACEweb/community/index.html </link>
+  <guid> https://cortner.github.io/ACEweb/community/index.html </guid>
   <description>
     <![CDATA[  ACE meetings and other community resources  ]]>
   </description>  
@@ -35,7 +35,7 @@
   
   
   <atom:author>
-    <atom:name>Septimia Zenobia</atom:name>
+    <atom:name>Christoph Ortner</atom:name>
   </atom:author>
         
 </item>
@@ -44,8 +44,8 @@
   <title>
     <![CDATA[  ACE Introduction  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/aceintro/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/aceintro/index.html </guid>
+  <link> https://cortner.github.io/ACEweb/aceintro/index.html </link>
+  <guid> https://cortner.github.io/ACEweb/aceintro/index.html </guid>
   <description>
     <![CDATA[  Brief intro to the ACE model  ]]>
   </description>  
@@ -54,7 +54,7 @@
   
   
   <atom:author>
-    <atom:name>Septimia Zenobia</atom:name>
+    <atom:name>Christoph Ortner</atom:name>
   </atom:author>
         
 </item>
