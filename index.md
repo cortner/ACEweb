@@ -13,4 +13,4 @@
 
 [Publications](publications)
 
-[Contact Maintainers](maintainers)
+[Contact Maintainers](contact)
