@@ -5,12 +5,12 @@
 
 ---
 
-[Atomic Cluster Expansion](aceintro)
+[Atomic Cluster Expansion](aceintro/)
 
-[Community & Meetings](community)
+[Community & Meetings](community/)
 
-[Software](software)
+[Software](software/)
 
-[Publications](publications)
+[Publications](publications/)
 
-[Contact Maintainers](contact)
+[Contact Maintainers](contact/)

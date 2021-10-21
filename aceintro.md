@@ -14,6 +14,6 @@ A particular use of ACE, and this is how it was originally introduced, is for de
 
 ACE encompasses (generalises) other local environment descriptors. For example, the Smooth Overlap of Atomic Positions (SOAP) descriptor in the limit of small Gaussian smearing on the neighbour atoms can be seen as the 3-particle component of the ACE basis, i.e. the _power spectrum_. The Spectral Neighbour Analysis Potential is based on the _bispectrum_, which is the 4-particle component of ACE. Moment Tensor Potentials can be obtained from ACE using a linear transformation. 
 
-[Software](../software/)
+[Software](/software/)
 
-[Publications](../publications/)
+[Publications](/publications/)

@@ -7,7 +7,7 @@
 
 Zoom meetings about ACE are organised every two weeks. Some are talks, some are discussion meetings. 
 
-Follow the schedule at the [ACE slack](http://ace-sbt8470.slack.com). Write to [the maintainers](../maintainers/) to get an invitation!
+Follow the schedule at the [ACE slack](http://ace-sbt8470.slack.com). Write to [the maintainers](/contact/) to get an invitation!
 
 ## Schedule 
 

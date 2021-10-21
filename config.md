@@ -18,6 +18,8 @@ website_descr = "Atomic Cluster Expansion"
 website_url   = "https://cortner.github.io/ACEweb/"
 +++
 
+@def prepath = "ACEweb"
+
 <!--
 Add here global latex commands to use throughout your pages.
 -->
