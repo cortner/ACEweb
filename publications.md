@@ -1,5 +1,6 @@
 @def title = "Publications"
 
+Please [write to the maintainers](/contact) to suggest additions to the publications list. 
 ### Focus on ACE
 
 - Performant implementation of ACE in the PACE code  
