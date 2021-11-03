@@ -3,8 +3,6 @@
 @def tags = ["syntax", "code"]
 
 
----
-
 [Atomic Cluster Expansion](aceintro/)
 
 [Community & Meetings](community/)
