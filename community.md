@@ -13,25 +13,30 @@ Follow community discussions on ACE at the [ACE slack](http://ace-sbt8470.slack.
 
 Virtual seminars (zoom) around ACE and related methods are organised roughly every two weeks: 
 
-* Wednesdays every two weeks
+* Wednesdays, typically every two weeks
 * 15:30 UTC, currently 8:30 PDT, 9:30 MDT, 10:30 CDT, 11:30 EDT, 16:30 BST, 17:30 CEST
 * https://ruhr-uni-bochum.zoom.us/j/95754411387?pwd=dkhWVjZwRjQxL09iRTJLa0xKdGF2Zz09
 
 
+
 ### Upcoming Meetings 
 
+9 February: Anton Bochkarev (Ruhr-University Bochum): _Non-linear Atomic Cluster Expansion and its Parameterization_
 
-10 November: Ralf Drautz (Ruhr-University Bochum): _Atomic cluster expansion, basics and applications_
+23 February:  Aidan Thompson (SANDIA): _SNAP and beyond: Machine Learning Interatomic Potentials in LAMMPS_; and James Goff (SANDIA): _Training ACE Potentials using LAMMPS and FitSNAP_
 
-24 November: Geneviève Dusson (CNRS & Université Bourgogne Franche-Comté): _Convergence rates for ACE_
-
-8 December: Christoph Ortner (University of British Columbia): _A General and Flexible Implementation of the Atomic Cluster Expansion_
-
-22 December: Cas van der Oord (University of Cambridge): _Determining the TiAl phase diagram using Nested Sampling and ACE HAL (Hyperactive Learning)_
-
+<!-- ~~24 November: Geneviève Dusson (CNRS & Université Bourgogne Franche-Comté): _Convergence rates for ACE_~~ -->
 
 ### Past Meetings 
 
 13 October: Risi Kondor (The University of Chicago): _A birds-eye view on equivariant neural networks_
 
 27 October: Michele Ceriotti (EPFL): _Prediction of electronic-structure-related properties_
+
+10 November: Ralf Drautz (Ruhr-University Bochum): _Atomic cluster expansion, basics and applications_
+
+8 December: Christoph Ortner (University of British Columbia): _A General and Flexible Implementation of the Atomic Cluster Expansion_
+
+18 January: Youssef Marzouk (MIT): _Some (early) thoughts on uncertainty quantification and Bayesian inference in molecular modeling_
+
+26 January: Cas van der Oord (University of Cambridge): _Determining the TiAl phase diagram using Nested Sampling and ACE HAL (Hyperactive Learning)_
