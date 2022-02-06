@@ -7,10 +7,11 @@ The following is an incomplete list of implementations of the ACE model or close
   - C++ evaluation-only code with LAMMPs interface
   - currently supports the original linear ACE model (Drautz, 2019)
   - fitting methodology provided through related python packages, and ACE.jl
-* pacemaker 
+* [pacemaker](https://github.com/ICAMS/python-ace)
   - Python package for fitting ACE potentials
   - compatible with PACE
-  - [pyace-lite](https://pypi.org/project/pyace-lite/)
+  - using [tensorpotential](https://github.com/ICAMS/TensorPotential) - an implementation of ACE in Tensorflow
+  - Paper:  [Bochkarev, A., Lysogorskiy, Y., Menon, S., Qamar, M., Mrovec, M. and Drautz, R. Efficient parametrization of the atomic cluster expansion. Physical Review Materials 6(1) 013804 (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.013804)
 * [ACE.jl and ACEsuit](https://acesuit.github.io) 
    - open source Julia implementation for rapid prototyping
    - abstractions to enable applications in different domains
