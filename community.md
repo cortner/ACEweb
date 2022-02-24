@@ -21,22 +21,27 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 
 ### Upcoming Meetings 
 
-9 February: Anton Bochkarev (Ruhr-University Bochum): _Non-linear Atomic Cluster Expansion and its Parameterization_
+9 March: Claudio Zeni: On the extrapolation of high-dimensional machine learning potentials
 
-23 February:  Aidan Thompson (SANDIA): _SNAP and beyond: Machine Learning Interatomic Potentials in LAMMPS_; and James Goff (SANDIA): _Training ACE Potentials using LAMMPS and FitSNAP_
+23 March: Antoine Kraych: ACE for defects in tungsten and Minaam Qamar: ACE for carbon: parameterization and application
+
 
 <!-- ~~24 November: Geneviève Dusson (CNRS & Université Bourgogne Franche-Comté): _Convergence rates for ACE_~~ -->
 
 ### Past Meetings 
 
-13 October: Risi Kondor (The University of Chicago): _A birds-eye view on equivariant neural networks_
+23 February:  Aidan Thompson (SANDIA): _SNAP and beyond: Machine Learning Interatomic Potentials in LAMMPS_; and James Goff (SANDIA): _Training ACE Potentials using LAMMPS and FitSNAP_
 
-27 October: Michele Ceriotti (EPFL): _Prediction of electronic-structure-related properties_
+9 February: Anton Bochkarev (Ruhr-University Bochum): _Non-linear Atomic Cluster Expansion and its Parameterization_
 
-10 November: Ralf Drautz (Ruhr-University Bochum): _Atomic cluster expansion, basics and applications_
-
-8 December: Christoph Ortner (University of British Columbia): _A General and Flexible Implementation of the Atomic Cluster Expansion_
+26 January: Cas van der Oord (University of Cambridge): _Determining the TiAl phase diagram using Nested Sampling and ACE HAL (Hyperactive Learning)_
 
 18 January: Youssef Marzouk (MIT): _Some (early) thoughts on uncertainty quantification and Bayesian inference in molecular modeling_
 
-26 January: Cas van der Oord (University of Cambridge): _Determining the TiAl phase diagram using Nested Sampling and ACE HAL (Hyperactive Learning)_
+8 December: Christoph Ortner (University of British Columbia): _A General and Flexible Implementation of the Atomic Cluster Expansion_
+
+10 November: Ralf Drautz (Ruhr-University Bochum): _Atomic cluster expansion, basics and applications_
+
+27 October: Michele Ceriotti (EPFL): _Prediction of electronic-structure-related properties_
+
+13 October: Risi Kondor (The University of Chicago): _A birds-eye view on equivariant neural networks_

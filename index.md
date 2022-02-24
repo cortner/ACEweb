@@ -4,9 +4,9 @@
 
 ## Upcoming Events
 
-* 9 February - [ACE Seminar](/community/) - Anton Bochkarev: Non-linear Atomic Cluster Expansion and its Parameterization
+9 March: Claudio Zeni: On the extrapolation of high-dimensional machine learning potentials
 
-* 23 February - [ACE Seminar](/community/) -  Aidan Thompson: SNAP and beyond: Machine Learning Interatomic Potentials in LAMMPS; and James Goff: Training ACE Potentials using LAMMPS and FitSNAP
+23 March: Antoine Kraych: ACE for defects in tungsten and Minaam Qamar: ACE for carbon: parameterization and application
 
 ## Contents
 
