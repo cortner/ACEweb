@@ -4,9 +4,18 @@
 
 ## Upcoming Events
 
-9 March: Claudio Zeni: On the extrapolation of high-dimensional machine learning potentials
+6 April: Antoine Kraych: ACE for defects in tungsten
 
-23 March: Antoine Kraych: ACE for defects in tungsten and Minaam Qamar: ACE for carbon: parameterization and application
+20 April: Boris Kozinsky: tba
+
+4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
+
+18 May: lyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
+
+1 June: tba
+
+15 June: Martin Uhrin: Through the eyes of a descriptor: Constructing complete, invertible descriptions of atomic environments (edited) 
+
 
 ## Contents
 

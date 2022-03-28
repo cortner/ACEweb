@@ -21,14 +21,24 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 
 ### Upcoming Meetings 
 
-9 March: Claudio Zeni: On the extrapolation of high-dimensional machine learning potentials
+6 April: Antoine Kraych: ACE for defects in tungsten
 
-23 March: Antoine Kraych: ACE for defects in tungsten and Minaam Qamar: ACE for carbon: parameterization and application
+20 April: Boris Kozinsky: tba
 
+4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
 
-<!-- ~~24 November: Geneviève Dusson (CNRS & Université Bourgogne Franche-Comté): _Convergence rates for ACE_~~ -->
+18 May: lyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
+
+1 June: tba
+
+15 June: Martin Uhrin: Through the eyes of a descriptor: Constructing complete, invertible descriptions of atomic environments (edited) 
+
 
 ### Past Meetings 
+
+23 March: Minaam Qamar: ACE for carbon: parameterization and application
+
+9 March: Claudio Zeni: On the extrapolation of high-dimensional machine learning potentials
 
 23 February:  Aidan Thompson (SANDIA): _SNAP and beyond: Machine Learning Interatomic Potentials in LAMMPS_; and James Goff (SANDIA): _Training ACE Potentials using LAMMPS and FitSNAP_
 
