@@ -24,9 +24,9 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 
 4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
 
-18 May: lyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
+18 May: Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
 
-1 June: tba
+1 June: Gus Hart: Some best practices for building MLIPs: Kpoints and active learning strategies
 
 15 June: Martin Uhrin: Through the eyes of a descriptor: Constructing complete, invertible descriptions of atomic environments (edited) 
 
