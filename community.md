@@ -19,11 +19,8 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 
 
 
-### Upcoming Meetings 
+### Upcoming seminars 
 
-6 April: Antoine Kraych: ACE for defects in tungsten
-
-20 April: Boris Kozinsky: tba
 
 4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
 
@@ -34,7 +31,11 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 15 June: Martin Uhrin: Through the eyes of a descriptor: Constructing complete, invertible descriptions of atomic environments (edited) 
 
 
-### Past Meetings 
+### Past seminars
+
+20 April: Boris Kozinsky: tba
+
+6 April: Antoine Kraych: ACE for defects in tungsten
 
 23 March: Minaam Qamar: ACE for carbon: parameterization and application
 

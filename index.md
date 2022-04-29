@@ -2,15 +2,11 @@
 @def subtitle = "Central hub for all things atomic cluster expansion"
 @def tags = ["syntax", "code"]
 
-## Upcoming Events
-
-6 April: Antoine Kraych: ACE for defects in tungsten
-
-20 April: Boris Kozinsky: tba
+## Upcoming Seminars
 
 4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
 
-18 May: lyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
+18 May: Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials
 
 1 June: Gus Hart: Some best practices for building MLIPs: Kpoints and active learning strategies
 
