@@ -31,7 +31,7 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 15 June: Martin Uhrin: Through the eyes of a descriptor: Constructing complete, invertible descriptions of atomic environments (edited) 
 
 
-### Past seminars
+### Past seminars 2022
 
 20 April: Boris Kozinsky: tba
 
@@ -48,6 +48,8 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 26 January: Cas van der Oord (University of Cambridge): _Determining the TiAl phase diagram using Nested Sampling and ACE HAL (Hyperactive Learning)_
 
 18 January: Youssef Marzouk (MIT): _Some (early) thoughts on uncertainty quantification and Bayesian inference in molecular modeling_
+
+### Past Seminars 2021
 
 8 December: Christoph Ortner (University of British Columbia): _A General and Flexible Implementation of the Atomic Cluster Expansion_
 
