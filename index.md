@@ -4,6 +4,9 @@
 
 ## Upcoming Seminars
 
+* 15:30 UTC
+* https://ruhr-uni-bochum.zoom.us/j/95754411387?pwd=dkhWVjZwRjQxL09iRTJLa0xKdGF2Zz09
+
 4 May: Matteo Rinaldi: Magnetic ACE: parameterization for iron
 
 18 May: Ilyes Batatia, Dávid Péter Kovács, Gregor N. C. Simm: A unified understanding of equivariant interatomic potentials

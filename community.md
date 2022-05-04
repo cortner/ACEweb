@@ -37,7 +37,7 @@ Virtual seminars (zoom) around ACE and related methods are organised roughly eve
 
 ### Past seminars 2022
 
-20 April: Boris Kozinsky: tba
+20 April: Boris Kozinsky: 
 
 6 April: Antoine Kraych: ACE for defects in tungsten
 
